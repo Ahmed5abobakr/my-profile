@@ -9,8 +9,8 @@ export default function Footer() {
         <div>
           <h4>Contact</h4>
           <p>Alexandria, Egypt</p>
-          <p>Email: e.mohamedabobakr@gmail.com</p>
-          <p>Phone: +20 111 092 4231</p>
+          <p>Email: www.elnasrya@gmail.com</p>
+          <p>Phone: +20 111 665 3 431</p>
         </div>
         <div className="social-icons">
           <a href="https://facebook.com" target="_blank" rel="noreferrer"><FaFacebookF /></a>
